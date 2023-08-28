@@ -1,0 +1,46 @@
+body {
+    font-size: 120%;
+    color: #fff;
+    background-color: #61122f;
+    font-family: Quicksand;
+}
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+#logo-img {
+    background: url(../images/images.png) no-repeat;
+    width: 140px;
+    height: 140px;
+    margin: 10px 14px 10px 0;
+    border-radius: 70px;
+}
+.navbar-brand {
+    color: #557c3e;
+    text-decoration: none;
+    font-size: 1.4em;
+    line-height: .74;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #222;
+    font-family: 'Courier New', Courier, monospace;
+   }
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+.sect {
+ background-color: azure;
+ color: #61122f;
+ margin: 30px 8px;
+ border-radius: 10px;
+}
+.div {
+    margin-top: 30px;
+    font-weight: bolder;
+    font-size: 8em;
+}
+p {
+    margin: 10px;
+}
